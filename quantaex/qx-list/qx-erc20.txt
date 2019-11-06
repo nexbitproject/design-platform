@@ -1,0 +1,21 @@
+Quantaex ERC20:
+
+1. Matic Network (MATIC) - https://etherscan.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0
+
+2. Chainlink (LINK) - https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca
+
+3. Basic Attention Token (BAT) - https://etherscan.io/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef
+
+4. Holo (HOT) - https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2
+
+5. Fetch.ai (FET) - https://etherscan.io/token/0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd
+
+6. Chiliz (CHZ) - https://etherscan.io/token/0x3506424f91fd33084466f402d5d97f05f8e3b4af
+
+7. UNUS SED LEO (LEO) - https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3
+
+8. OmiseGO (OMG) - https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07
+
+9. 0x (ZRX) - https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498
+
+10. FTX Token (FTT) - https://etherscan.io/token/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9
