@@ -1,24 +1,15 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="32px" height="32px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" style="enable-background:new 0 0 32 32;" viewBox="0 0 32 32" x="0px" y="0px" width="32px" height="32px" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <style type="text/css">
-	.st0{fill:#FFB404;}
+	.st0{fill:#FF4E10;}
 	.st1{fill:url(#SVGID_1_);}
 	.st2{fill:#FFFFFF;}
 </style>
-<path class="st0" d="M20,32h-8C5.4,32,0,26.6,0,20v-8C0,5.4,5.4,0,12,0h8c6.6,0,12,5.4,12,12v8C32,26.6,26.6,32,20,32z"/>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="7.2681" y1="0.8759" x2="24.7319" y2="31.1241">
-	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
-	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+<path class="st0" d="M 20 32 h -8 C 5.4 32 0 26.6 0 20 v -8 C 0 5.4 5.4 0 12 0 h 8 c 6.6 0 12 5.4 12 12 v 8 C 32 26.6 26.6 32 20 32 Z" />
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, -1, 0, 34)" x1="7.2726" y1="33.1163" x2="24.7274" y2="2.8837">
+	<stop style="stop-color:#FFFFFF;stop-opacity:0.5" offset="0" />
+	<stop style="stop-color:#FFFFFF;stop-opacity:0" offset="1" />
 </linearGradient>
-<path class="st1" d="M20,32h-8C5.4,32,0,26.6,0,20v-8C0,5.4,5.4,0,12,0h8c6.6,0,12,5.4,12,12v8C32,26.6,26.6,32,20,32z"/>
+<path class="st1" d="M 20 32 h -8 C 5.4 32 0 26.6 0 20 v -8 C 0 5.4 5.4 0 12 0 h 8 c 6.6 0 12 5.4 12 12 v 8 C 32 26.6 26.6 32 20 32 Z" />
 <title>NBC Logo without bg</title>
-<path id="LEAR" class="st2" d="M5.4,6.7l3,5.2c0,0.1,0.1,0.2,0.1,0.2l0,6.7c0,0.1,0.1,0.2,0.1,0.3l2.4,2.4c0.3,0.3,0.8,0.1,0.8-0.3
-	c0-3.3,0-6.7,0-10c0-0.1,0-0.2-0.1-0.2L9.5,7.1C9.4,7,9.3,6.9,9.2,6.9L5.9,6C5.7,5.9,5.4,6.1,5.3,6.4C5.3,6.5,5.3,6.6,5.4,6.7z"/>
-<path id="LEYE" class="st2" d="M12.3,11.3V25c0,0.1,0,0.2,0.1,0.3l2.6,2.6c0.1,0.1,0.4,0.1,0.5,0c0.1-0.1,0.1-0.2,0.1-0.3V11.2
-	c0-0.2-0.2-0.4-0.4-0.4l0,0h-2.5C12.5,10.8,12.3,11,12.3,11.3z"/>
-<path id="REYE" class="st2" d="M19.7,11.3V25c0,0.1,0,0.2-0.1,0.3l-2.6,2.6c-0.1,0.1-0.4,0.1-0.5,0c-0.1-0.1-0.1-0.2-0.1-0.3V11.2
-	c0-0.2,0.2-0.4,0.4-0.4h2.5C19.4,10.8,19.7,11,19.7,11.3z"/>
-<path id="REAR" class="st2" d="M26.6,6.7l-3,5.2c0,0.1-0.1,0.2-0.1,0.2l0,6.7c0,0.1-0.1,0.2-0.1,0.3L21,21.6
-	c-0.3,0.3-0.8,0.1-0.8-0.3c0-3.3,0-6.7,0-10c0-0.1,0-0.2,0.1-0.2l2.3-3.9c0.1-0.1,0.2-0.2,0.3-0.2L26.1,6
-	C26.5,5.9,26.8,6.3,26.6,6.7z"/>
+<polygon class="st2" points="23.9,15.4 23.9,16.6 27,16.6 27,18.6 23.9,18.6 23.9,24.6 18.7,24.6 11.8,13 11.8,24.6 8.1,24.6 8.1,18.6 5,18.6 5,16.6 8.1,16.6 8.1,15.4 5,15.4 5,13.4 8.1,13.4 8.1,7.4 12.8,7.4 20.2,19.9 20.2,7.4 23.9,7.4 23.9,13.4 27,13.4 27,15.4" />
 </svg>
