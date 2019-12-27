@@ -1,0 +1,25 @@
+
+/*CSS for test */
+.parent {
+display: grid;
+grid-template-columns: repeat(2, 0) 1fr;    /*you can create any template or module class using built-in [grid-template] class */
+grid-template-rows: 3fr 2fr;
+grid-column-gap: 2px;
+grid-row-gap: 5px;
+}
+
+.div1 { grid-area: 1 / 1 / 2 / 3; }  //can re-name class with anything like relevant main css
+.div2 { grid-area: 2 / 3 / 3 / 4; }
+.div3 { grid-area: 2 / 3 / 3 / 4; }
+.div4 { grid-area: 2 / 3 / 3 / 4; }
+
+
+
+/* HTML code for test*/
+
+<div class="parent">
+<div class="div1"> </div>
+<div class="div2"> </div>
+<div class="div3"> </div>
+<div class="div4"> </div>
+</div> 

@@ -1,0 +1,105 @@
+.home-info-box {
+  display: block;
+  background-size: cover;
+  background-repeat: no-repeat;
+  bottom: 0;
+  height: 440;
+  left: 1;
+  position:absolute;
+  top: 0px;
+  width: 1155px;
+}
+
+.trading-competition {
+  background-image: url('custom/assets/images/home/trading-competition@2x.png');
+}
+.get-up-to {
+  background-image: url('custom/assets/images/home/get-up-to@2x.png');
+}
+.dsr-holding {
+  background-image: url('custom/assets/images/home/dsr-holding.png');
+}
+.home-info-box__text-left {
+  display: block;
+  border-radius: 8px;
+}
+.home-info-box__text {
+  display:block;
+  font-size: 12px;
+  font-weight: bold;
+}
+.home-info-box__title {
+  display:block;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1em;
+  margin-bottom: 3px;
+  margin-top: 3px;
+}
+.home-info-box__link {
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 10px;
+  background-image: var(--home-info-box-link-color);
+}
+.title-page__text--orange-color {
+  text-shadow: 0 0 8px rgba(255, 208, 109, 0.1);
+  background-image: linear-gradient(92deg, #ffb779, #ff8a8d) !important;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.title-page__text--green-color {
+  background-image: linear-gradient(94deg, #0fa6da, #00c2b8) !important;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.title-page__text--blue-color {
+  background-image: linear-gradient(92deg, #5c81f2, #8547b7) !important;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.home-down-box {
+  display: block;
+  margin-bottom: 50px;
+  position: relative;
+}
+@media (min-width: 576px) {
+  .home-down-box {
+    text-align: center;
+  }
+}
+@media (max-width: 575.98px) {
+  .home-down-box {
+    text-align: left;
+    padding-left: 50px;
+  }
+}
+@media (max-width: 575.98px) {
+  .home-down-box__image {
+    left: 0;
+    position: absolute;
+    top: -11px;
+  }
+}
+.home-down-box__title {
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: 35px;
+  text-transform: uppercase;
+  color: var(--body-text-color);
+}
+.home-down-box__text {
+  display: block;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.38;
+}
