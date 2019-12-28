@@ -1,0 +1,16 @@
+.ng-grid-container {
+  display: grid;
+  grid-template-columns: 656px 574px 510px;
+  grid-template-rows: 440px 300px;
+  grid-template-areas: "main_banner main_banner twitter_feed" "home_text1 home_text2 home_text3";
+}
+
+.ng-home_text1 { grid-area: ng-home_text1; }
+
+.ng-home_text2 { grid-area: ng-home_text2; }
+
+.ng-home_text3 { grid-area: ng-home_text3; }
+
+.ng-main_banner { grid-area: ng-main_banner; }
+
+.ng-twitter_feed { grid-area: ng-twitter_feed; }
